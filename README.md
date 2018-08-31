@@ -1,1 +1,0 @@
-# Product Embed Plugin Wordpress
