@@ -1,3 +1,3 @@
 # Product Embed
 
-demo https://moladin.com/blog/beli-motor-yamaha/
+sample [Demo](https://moladin.com/blog/beli-motor-yamaha/)
