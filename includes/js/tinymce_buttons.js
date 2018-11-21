@@ -45,7 +45,7 @@
               {
                 type: 'textbox',
                 multiline: true,
-                name: 'desc',
+                name: 'description',
                 label: 'Descriptions',
                 minWidth: 500,
                 value: ''
@@ -87,8 +87,8 @@
               if( e.data.price.length > 0 ) {
                 params.push('price="' + e.data.price + '"');
               }
-              if( e.data.desc.length > 0 ) {
-                params.push('desc="' + e.data.desc + '"');
+              if( e.data.description.length > 0 ) {
+                params.push('description="' + e.data.description + '"');
               }
               if( e.data.button.length > 0 ) {
                 params.push('button="' + e.data.button + '"');
